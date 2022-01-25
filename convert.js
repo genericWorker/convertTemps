@@ -1,4 +1,4 @@
- 
+ //  Add some comments
   var f = prompt("Enter Fahrenheit temperature");
         f = parseInt(f);
         var c = (f-32) * 5/9;
